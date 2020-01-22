@@ -1,0 +1,5 @@
+进入本地仓库目录
+1 cd ls
+2 git add  **
+3 git commit -m "***"
+4 git push oragin master
